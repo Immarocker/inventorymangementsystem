@@ -1,5 +1,4 @@
 <?php require_once 'includes/header.php'; ?>
-
 <?php 
 
 $sql = "SELECT * FROM product WHERE status = 1";
